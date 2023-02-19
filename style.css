@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.background{
+    background-image: url(images/bg-header-desktop.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image1{
+    margin-left: 100vh;
+    padding-top: 90px;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    padding-top: 35px;
+    color: hsl(210, 10%, 33%);
+}
+.p1{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    width: 700px;
+    margin-left: 50vh;
+}
+.but1{
+    background-color: hsl(171, 66%, 44%);
+    width: 220px;
+    color: white;
+    font-size: 18px;
+    padding: 13px;
+    border-radius: 30px;
+    border: none;
+    font-weight: 500;
+    box-shadow: 0px 12px 12px 0px hsla(171, 66%, 44%, 0.295) ;
+    margin-right: 20px;
+}
+.but2{
+    background-color: hsl(233, 100%, 69%);
+    width: 220px;
+    color: white;
+    font-size: 18px;
+    padding: 13px;
+    border-radius: 30px;
+    border: none;
+    border-width: 2px;
+    font-weight: 500;
+    box-shadow:0px 12px 12px 0px  hsla(233, 100%, 69%, 0.534) ;
+}
+.buttons{
+    margin-left: 70vh;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.section1{
+    margin-top: 140px;
+}
+p{
+    color:hsl(201, 11%, 66%);
+}
+h2{
+    font-size: 2.5rem;
+    text-align: center;
+    color:hsl(210, 10%, 33%);
+}
+.section1 p {
+    width: 600px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 350px;
+    line-height: 32px;
+    margin-top: 15px;
+}
+.section2{
+    display: flex;
+    margin-top: 80px;
+}
+.image img{
+    position: relative;
+    right: 50px;
+}
+.sect1{
+    margin-top: 100px;
+    justify-content: space-between;
+    margin-left: 80px;
+}
+.sub p{
+    margin-top: 15px;
+    width: 340px;
+    line-height: 25px;
+}
+h3{
+    font-size: 1.5rem;
+    color:hsl(210, 10%, 33%);
+}
+.sub1{
+    margin-top: 40px;
+}
+.sub1 p{
+    margin-top: 15px;
+    width: 340px;
+    line-height: 25px;
+}
+.sub2{
+    margin-top: 40px;
+}
+.sub2 p{
+    margin-top: 15px;
+    width: 340px;
+    line-height: 25px;
+}
+.section3{
+    margin-top: 150px;
+}
+.section3 p{
+    width: 700px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 320px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+.section3 img{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.num1 p{
+    width: 700px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 320px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+.num2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.num2{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.icon img{
+    margin-bottom: 20px;
+    position: relative;
+    left: 140px;
+}
+.icon h3{
+    text-align: center;
+}
+.icon p{
+    width: 350px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 32px;
+}
+.icon1 img{
+    margin-top: 8px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 140px;
+}
+.icon1 h3{
+    text-align: center;
+}
+.icon1 p{
+    width: 350px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 32px;
+}
+.icon2 img{
+    margin-top: 8px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 140px;
+}
+.icon2 h3{
+    text-align: center;
+}
+.icon2 p{
+    width: 350px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 32px;
+}
+.images img{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.section5{
+    margin-top: 100px;
+}
+.section5 p{
+    width: 700px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 320px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+.last{
+    margin-top: 150px;
+    background-color: hsl(200, 18%, 97%);
+    height: 120px;
+    display: flex;
+}
+.last img{
+    width: 55px;
+    padding-top: 40px;
+    margin-left: 180px;
+}
+.last a{
+    text-decoration: none;
+    color: hsl(210, 10%, 33%);
+    font-weight: 500;
+    font-size: 18px;
+
+}
+.link1{
+    margin-left: 100px;
+    margin-right: 40px;
+    margin-top: 30px;
+    display: grid;
+
+}
+.link2{
+    margin-left: 60px;
+    margin-right: 40px;
+    margin-top: 30px;
+    display: grid;
+}
+.link3{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.medialogo img{
+    width: 20px;
+    margin-right: -140px;
+    margin-left: 170px;
+
+}
